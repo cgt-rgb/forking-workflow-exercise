@@ -16,3 +16,7 @@
 - Mix ingredients
 - Add zest
 - Enjoy!
+
+## Author
+In case of any issues, feel free to contact:
+John Brown, jhbrw@dtu.dk
