@@ -13,3 +13,7 @@ Italian dessert.
 ## Instructions
 
 Follow the stiieps and enojy your dish!
+
+## Author
+In case of any issues, feel free to contact:
+John Brown, jhbrw@dtu.dk

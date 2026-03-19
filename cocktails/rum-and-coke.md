@@ -7,10 +7,14 @@
 - 2 dl Cola
 - 3 icer cubes
 
-## Directions
+## Instructions
 
 - add ice to a cocktail glass 
 - add rum to glass
 - add cola to glass
 - and mix well
 - enjoy in moderation!
+
+## Author
+In case of any issues, feel free to contact:
+John Brown, jhbrw@dtu.dk
